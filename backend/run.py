@@ -1,3 +1,5 @@
+#Run the below script if you are facing issues in postman.
+
 import requests
  
 url = "http://localhost:5000/wallet/transact"
